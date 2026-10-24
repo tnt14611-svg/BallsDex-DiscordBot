@@ -1,0 +1,8 @@
+services:
+  bot:
+    command: python3 -m ballsdex --dev --debug
+    environment:
+      - "DJANGO_SETTINGS_MODULE=admin_panel.settings.dev"
+  admin-panel:
+    environment:
+      - "DJANGO_SETTINGS_MODULE=admin_panel.settings.dev"
