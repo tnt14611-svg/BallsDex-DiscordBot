@@ -1,4 +1,4 @@
 [[ballsdex.packages]]
-location = "git+https://github.com/seiftheman/ballsdex-packs.git@v2.2.6#main"
-path = "packs"
+location = "git+https://github.com/Caylies/Crates.git@0.3.0"
+path = "crates"
 enabled = true
