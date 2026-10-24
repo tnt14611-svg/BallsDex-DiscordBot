@@ -1,0 +1,4 @@
+[[ballsdex.packages]]
+location = "git+https://github.com/seiftheman/ballsdex-packs.git@v2.2.6#main"
+path = "packs"
+enabled = true
